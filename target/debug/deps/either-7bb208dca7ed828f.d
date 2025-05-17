@@ -1,0 +1,11 @@
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libeither-7bb208dca7ed828f.rmeta: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged_optional.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/iterator.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/into_either.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libeither-7bb208dca7ed828f.rlib: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged_optional.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/iterator.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/into_either.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/either-7bb208dca7ed828f.d: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged_optional.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/iterator.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/into_either.rs
+
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/lib.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/serde_untagged_optional.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/iterator.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.15.0/src/into_either.rs:

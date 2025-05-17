@@ -1,0 +1,12 @@
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libcipher-16bbae803985df1b.rmeta: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/block.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/errors.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_core.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_wrapper.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libcipher-16bbae803985df1b.rlib: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/block.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/errors.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_core.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_wrapper.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/cipher-16bbae803985df1b.d: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/block.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/errors.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_core.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_wrapper.rs
+
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/lib.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/block.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/errors.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_core.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cipher-0.4.4/src/stream_wrapper.rs:

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/txt/Área de trabalho/BockWp/BookWP/target/debug/build/mime_guess-2d46d0611d8697bd/out/mime_types_generated.rs

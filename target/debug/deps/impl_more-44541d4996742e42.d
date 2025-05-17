@@ -1,0 +1,12 @@
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libimpl_more-44541d4996742e42.rmeta: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/libimpl_more-44541d4996742e42.rlib: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/txt/Área de trabalho/BockWp/BookWP/target/debug/deps/impl_more-44541d4996742e42.d: /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs /home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs
+
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/lib.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/as_ref.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/deref.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/display.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/error.rs:
+/home/txt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-more-0.1.9/src/from.rs:
